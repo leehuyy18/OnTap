@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\services\\cartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|d:\\it3\\hk1\\cnpmnc\\giohang\\giohang\\giohang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6640FD43-2E5F-48AB-8498-A8963514F262}|GioHang\\GioHang.csproj|solutionrelative:giohang\\giohang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\App.razor",
+              "RelativeDocumentMoniker": "GioHang\\App.razor",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\App.razor",
+              "RelativeToolTip": "GioHang\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:12:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\_Imports.razor",
+              "RelativeDocumentMoniker": "GioHang\\_Imports.razor",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\_Imports.razor",
+              "RelativeToolTip": "GioHang\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:09:17.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\MainLayout.razor",
+              "RelativeDocumentMoniker": "GioHang\\MainLayout.razor",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\MainLayout.razor",
+              "RelativeToolTip": "GioHang\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:08:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "GioHang\\Pages\\Index.razor",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Pages\\Index.razor",
+              "RelativeToolTip": "GioHang\\Pages\\Index.razor",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:59:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Program.cs",
+              "RelativeDocumentMoniker": "GioHang\\Program.cs",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Program.cs",
+              "RelativeToolTip": "GioHang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:59:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartServices.cs",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Services\\CartServices.cs",
+              "RelativeDocumentMoniker": "GioHang\\Services\\CartServices.cs",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\Services\\CartServices.cs",
+              "RelativeToolTip": "GioHang\\Services\\CartServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:58:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GioHang",
+              "DocumentMoniker": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\GioHang.csproj",
+              "RelativeDocumentMoniker": "GioHang\\GioHang.csproj",
+              "ToolTip": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\GioHang.csproj",
+              "RelativeToolTip": "GioHang\\GioHang.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T15:57:29.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

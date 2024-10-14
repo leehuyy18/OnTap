@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\obj\\Debug\\net7.0\\compressed\\upfadd3t8p.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\IT3\\HK1\\CNPMNC\\GioHang\\GioHang\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GioHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GioHang.props",
+      "PackagePath": "build\\GioHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GioHang.props",
+      "PackagePath": "buildMultiTargeting\\GioHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GioHang.props",
+      "PackagePath": "buildTransitive\\GioHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,79 @@
+﻿@page "/"
+@inject GioHang.Services.CartServices CartService
+
+<h3>Giỏ Hàng</h3>
+
+<ul>
+    @if (CartService.Items.Count == 0)
+    {
+        <li>Giỏ hàng trống.</li>
+    }
+    else
+    {
+        foreach (var item in CartService.Items)
+        {
+            <li>
+                @item
+                <button @onclick="@(() => RemoveItem(item))">Xóa</button>
+                <button @onclick="@(() => ShowEditDialog(item))">Sửa</button>
+            </li>
+        }
+    }
+</ul>
+
+<input type="text" @bind="newItem" placeholder="Nhập sản phẩm" />
+<button @onclick="AddItem">Thêm vào giỏ hàng</button>
+
+@if (isEditing)
+{
+    <div>
+        <input type="text" @bind="editItem" placeholder="Nhập tên mới" />
+        <button @onclick="UpdateItem">Cập nhật</button>
+        <button @onclick="CancelEdit">Hủy</button>
+    </div>
+}
+
+@code {
+    private string newItem;
+    private string editItem;
+    private bool isEditing = false;
+    private string itemToEdit;
+
+    private void AddItem()
+    {
+        if (!string.IsNullOrWhiteSpace(newItem))
+        {
+            CartService.AddItem(newItem);
+            newItem = string.Empty; // Reset input
+        }
+    }
+
+    private void RemoveItem(string item)
+    {
+        CartService.RemoveItem(item);
+    }
+
+    private void ShowEditDialog(string item)
+    {
+        isEditing = true;
+        itemToEdit = item;
+        editItem = item;
+    }
+
+    private void UpdateItem()
+    {
+        if (!string.IsNullOrWhiteSpace(editItem))
+        {
+            var index = CartService.Items.IndexOf(itemToEdit);
+            CartService.UpdateItem(index, editItem);
+            CancelEdit();
+        }
+    }
+
+    private void CancelEdit()
+    {
+        isEditing = false;
+        editItem = string.Empty;
+        itemToEdit = null;
+    }
+}
